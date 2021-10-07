@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ruslan\\source\\repos\\HW1\\HelloWorldWinForms\\HelloWorldWinForms\\HelloWorldWinForms.csproj": {}
+    "C:\\Users\\Ruslan\\source\\repos\\OOP\\HW1\\HelloWorldWinForms\\HelloWorldWinForms\\HelloWorldWinForms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ruslan\\source\\repos\\HW1\\HelloWorldWinForms\\HelloWorldWinForms\\HelloWorldWinForms.csproj": {
+    "C:\\Users\\Ruslan\\source\\repos\\OOP\\HW1\\HelloWorldWinForms\\HelloWorldWinForms\\HelloWorldWinForms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ruslan\\source\\repos\\HW1\\HelloWorldWinForms\\HelloWorldWinForms\\HelloWorldWinForms.csproj",
+        "projectUniqueName": "C:\\Users\\Ruslan\\source\\repos\\OOP\\HW1\\HelloWorldWinForms\\HelloWorldWinForms\\HelloWorldWinForms.csproj",
         "projectName": "HelloWorldWinForms",
-        "projectPath": "C:\\Users\\Ruslan\\source\\repos\\HW1\\HelloWorldWinForms\\HelloWorldWinForms\\HelloWorldWinForms.csproj",
+        "projectPath": "C:\\Users\\Ruslan\\source\\repos\\OOP\\HW1\\HelloWorldWinForms\\HelloWorldWinForms\\HelloWorldWinForms.csproj",
         "packagesPath": "C:\\Users\\Ruslan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ruslan\\source\\repos\\HW1\\HelloWorldWinForms\\HelloWorldWinForms\\obj\\",
+        "outputPath": "C:\\Users\\Ruslan\\source\\repos\\OOP\\HW1\\HelloWorldWinForms\\HelloWorldWinForms\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ruslan\\AppData\\Roaming\\NuGet\\NuGet.Config",

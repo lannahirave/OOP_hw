@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ruslan\\source\\repos\\HW1\\HelloWorldWPF\\HelloWorldWPF\\HelloWorldWPF.csproj",
+      "projectUniqueName": "C:\\Users\\Ruslan\\source\\repos\\OOP\\HW1\\HelloWorldWPF\\HelloWorldWPF\\HelloWorldWPF.csproj",
       "projectName": "HelloWorldWPF",
-      "projectPath": "C:\\Users\\Ruslan\\source\\repos\\HW1\\HelloWorldWPF\\HelloWorldWPF\\HelloWorldWPF.csproj",
+      "projectPath": "C:\\Users\\Ruslan\\source\\repos\\OOP\\HW1\\HelloWorldWPF\\HelloWorldWPF\\HelloWorldWPF.csproj",
       "packagesPath": "C:\\Users\\Ruslan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ruslan\\source\\repos\\HW1\\HelloWorldWPF\\HelloWorldWPF\\obj\\",
+      "outputPath": "C:\\Users\\Ruslan\\source\\repos\\OOP\\HW1\\HelloWorldWPF\\HelloWorldWPF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ruslan\\AppData\\Roaming\\NuGet\\NuGet.Config",

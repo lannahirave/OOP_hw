@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ruslan\\source\\repos\\HW1\\currency\\currency\\currency.csproj",
+      "projectUniqueName": "C:\\Users\\Ruslan\\source\\repos\\OOP\\HW1\\currency\\currency\\currency.csproj",
       "projectName": "currency",
-      "projectPath": "C:\\Users\\Ruslan\\source\\repos\\HW1\\currency\\currency\\currency.csproj",
+      "projectPath": "C:\\Users\\Ruslan\\source\\repos\\OOP\\HW1\\currency\\currency\\currency.csproj",
       "packagesPath": "C:\\Users\\Ruslan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ruslan\\source\\repos\\HW1\\currency\\currency\\obj\\",
+      "outputPath": "C:\\Users\\Ruslan\\source\\repos\\OOP\\HW1\\currency\\currency\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ruslan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F60a7rqpj6a8stBWAkh4P6fCadKJVpDBarz4i24AVHhfSr6hrdgZMovzFR/fGXBJ/ewnvTKsKjSJS8j7a26mCA==",
+  "dgSpecHash": "kms0jADYyoeBk/bNIxrBBuBGs3sFy/Cxoft/eu4F9/a2vcU/hqKhIykxgFyFBG1iRxacDSs90Kq/joH8N2apKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ruslan\\source\\repos\\HW1\\currency\\currency\\currency.csproj",
+  "projectFilePath": "C:\\Users\\Ruslan\\source\\repos\\OOP\\HW1\\currency\\currency\\currency.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

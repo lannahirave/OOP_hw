@@ -109,6 +109,7 @@ namespace ConsoleApp1
                     Console.Write("Is this student good or bad  (or 'stop' to stop): ");
                     status = Console.ReadLine();
                     while (!(status == "bad" || status =="good" )) {
+                        Console.Write("Is this student good or bad: ");
                         status = Console.ReadLine();
                     }
                     if (status == "stop") break;

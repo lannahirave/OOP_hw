@@ -50,10 +50,39 @@ namespace currency
     {
         static void Main(string[] args)
         {
-            Converter conv = new Converter(27, 30);
-            conv.FromUAH(100);
-            conv.ToUAH("USD", 100);
-            conv.ToUAH("EUR", 100);
+            double USD; double EUR;
+            do
+            {
+                Console.WriteLine("Enter current USD exchange rate: ");
+                USD = Convert.ToDouble((Console.ReadLine()));
+                Console.WriteLine("Enter current EUR exchange rate: ");
+                EUR = Convert.ToDouble((Console.ReadLine()));
+            }
+            while (USD <= 0 || EUR <= 0);
+         
+            Converter conv = new Converter(USD, EUR);
+            double UAH;
+            do
+            {
+                Console.WriteLine("Enter UAH amount: ");
+                UAH = Convert.ToDouble((Console.ReadLine()));
+            }
+            while (UAH <= 0);
+            conv.FromUAH(UAH);
+            do
+            {
+                Console.WriteLine("Enter EUR amount: ");
+                EUR = Convert.ToDouble((Console.ReadLine()));
+            }
+            while (EUR <= 0);
+            conv.ToUAH("EUR", EUR);
+            do
+            {
+                Console.WriteLine("Enter USD amount: ");
+                USD = Convert.ToDouble((Console.ReadLine()));
+            }
+            while (USD <= 0);
+            conv.ToUAH("USD", USD);
 
         }
     }
