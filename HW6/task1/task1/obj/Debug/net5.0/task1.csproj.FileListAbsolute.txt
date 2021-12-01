@@ -1,0 +1,16 @@
+C:\Users\nikit\source\repos\OOP_hw\HW6\task1\task1\bin\Debug\net5.0\task1.exe
+C:\Users\nikit\source\repos\OOP_hw\HW6\task1\task1\bin\Debug\net5.0\task1.deps.json
+C:\Users\nikit\source\repos\OOP_hw\HW6\task1\task1\bin\Debug\net5.0\task1.runtimeconfig.json
+C:\Users\nikit\source\repos\OOP_hw\HW6\task1\task1\bin\Debug\net5.0\task1.runtimeconfig.dev.json
+C:\Users\nikit\source\repos\OOP_hw\HW6\task1\task1\bin\Debug\net5.0\task1.dll
+C:\Users\nikit\source\repos\OOP_hw\HW6\task1\task1\bin\Debug\net5.0\ref\task1.dll
+C:\Users\nikit\source\repos\OOP_hw\HW6\task1\task1\bin\Debug\net5.0\task1.pdb
+C:\Users\nikit\source\repos\OOP_hw\HW6\task1\task1\obj\Debug\net5.0\task1.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\OOP_hw\HW6\task1\task1\obj\Debug\net5.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\repos\OOP_hw\HW6\task1\task1\obj\Debug\net5.0\task1.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\OOP_hw\HW6\task1\task1\obj\Debug\net5.0\task1.AssemblyInfo.cs
+C:\Users\nikit\source\repos\OOP_hw\HW6\task1\task1\obj\Debug\net5.0\task1.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\OOP_hw\HW6\task1\task1\obj\Debug\net5.0\task1.dll
+C:\Users\nikit\source\repos\OOP_hw\HW6\task1\task1\obj\Debug\net5.0\ref\task1.dll
+C:\Users\nikit\source\repos\OOP_hw\HW6\task1\task1\obj\Debug\net5.0\task1.pdb
+C:\Users\nikit\source\repos\OOP_hw\HW6\task1\task1\obj\Debug\net5.0\task1.genruntimeconfig.cache

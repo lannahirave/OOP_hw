@@ -1,0 +1,16 @@
+C:\Users\nikit\source\repos\OOP_hw\HW6\linq\linq\obj\Debug\net5.0\linq.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\OOP_hw\HW6\linq\linq\obj\Debug\net5.0\linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\repos\OOP_hw\HW6\linq\linq\obj\Debug\net5.0\linq.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\OOP_hw\HW6\linq\linq\obj\Debug\net5.0\linq.AssemblyInfo.cs
+C:\Users\nikit\source\repos\OOP_hw\HW6\linq\linq\obj\Debug\net5.0\linq.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\OOP_hw\HW6\linq\linq\bin\Debug\net5.0\linq.exe
+C:\Users\nikit\source\repos\OOP_hw\HW6\linq\linq\bin\Debug\net5.0\linq.deps.json
+C:\Users\nikit\source\repos\OOP_hw\HW6\linq\linq\bin\Debug\net5.0\linq.runtimeconfig.json
+C:\Users\nikit\source\repos\OOP_hw\HW6\linq\linq\bin\Debug\net5.0\linq.runtimeconfig.dev.json
+C:\Users\nikit\source\repos\OOP_hw\HW6\linq\linq\bin\Debug\net5.0\linq.dll
+C:\Users\nikit\source\repos\OOP_hw\HW6\linq\linq\bin\Debug\net5.0\ref\linq.dll
+C:\Users\nikit\source\repos\OOP_hw\HW6\linq\linq\bin\Debug\net5.0\linq.pdb
+C:\Users\nikit\source\repos\OOP_hw\HW6\linq\linq\obj\Debug\net5.0\linq.dll
+C:\Users\nikit\source\repos\OOP_hw\HW6\linq\linq\obj\Debug\net5.0\ref\linq.dll
+C:\Users\nikit\source\repos\OOP_hw\HW6\linq\linq\obj\Debug\net5.0\linq.pdb
+C:\Users\nikit\source\repos\OOP_hw\HW6\linq\linq\obj\Debug\net5.0\linq.genruntimeconfig.cache

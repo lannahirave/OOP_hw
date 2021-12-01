@@ -1,0 +1,16 @@
+C:\Users\nikit\source\repos\OOP_hw\HW6\decorator\decorator\bin\Debug\net5.0\decorator.exe
+C:\Users\nikit\source\repos\OOP_hw\HW6\decorator\decorator\bin\Debug\net5.0\decorator.deps.json
+C:\Users\nikit\source\repos\OOP_hw\HW6\decorator\decorator\bin\Debug\net5.0\decorator.runtimeconfig.json
+C:\Users\nikit\source\repos\OOP_hw\HW6\decorator\decorator\bin\Debug\net5.0\decorator.runtimeconfig.dev.json
+C:\Users\nikit\source\repos\OOP_hw\HW6\decorator\decorator\bin\Debug\net5.0\decorator.dll
+C:\Users\nikit\source\repos\OOP_hw\HW6\decorator\decorator\bin\Debug\net5.0\ref\decorator.dll
+C:\Users\nikit\source\repos\OOP_hw\HW6\decorator\decorator\bin\Debug\net5.0\decorator.pdb
+C:\Users\nikit\source\repos\OOP_hw\HW6\decorator\decorator\obj\Debug\net5.0\decorator.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\OOP_hw\HW6\decorator\decorator\obj\Debug\net5.0\decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\repos\OOP_hw\HW6\decorator\decorator\obj\Debug\net5.0\decorator.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\OOP_hw\HW6\decorator\decorator\obj\Debug\net5.0\decorator.AssemblyInfo.cs
+C:\Users\nikit\source\repos\OOP_hw\HW6\decorator\decorator\obj\Debug\net5.0\decorator.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\OOP_hw\HW6\decorator\decorator\obj\Debug\net5.0\decorator.dll
+C:\Users\nikit\source\repos\OOP_hw\HW6\decorator\decorator\obj\Debug\net5.0\ref\decorator.dll
+C:\Users\nikit\source\repos\OOP_hw\HW6\decorator\decorator\obj\Debug\net5.0\decorator.pdb
+C:\Users\nikit\source\repos\OOP_hw\HW6\decorator\decorator\obj\Debug\net5.0\decorator.genruntimeconfig.cache

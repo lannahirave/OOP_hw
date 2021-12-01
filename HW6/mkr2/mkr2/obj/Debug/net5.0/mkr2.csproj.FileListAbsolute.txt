@@ -1,0 +1,16 @@
+C:\Users\nikit\source\repos\OOP_hw\HW6\mkr2\mkr2\bin\Debug\net5.0\mkr2.exe
+C:\Users\nikit\source\repos\OOP_hw\HW6\mkr2\mkr2\bin\Debug\net5.0\mkr2.deps.json
+C:\Users\nikit\source\repos\OOP_hw\HW6\mkr2\mkr2\bin\Debug\net5.0\mkr2.runtimeconfig.json
+C:\Users\nikit\source\repos\OOP_hw\HW6\mkr2\mkr2\bin\Debug\net5.0\mkr2.runtimeconfig.dev.json
+C:\Users\nikit\source\repos\OOP_hw\HW6\mkr2\mkr2\bin\Debug\net5.0\mkr2.dll
+C:\Users\nikit\source\repos\OOP_hw\HW6\mkr2\mkr2\bin\Debug\net5.0\ref\mkr2.dll
+C:\Users\nikit\source\repos\OOP_hw\HW6\mkr2\mkr2\bin\Debug\net5.0\mkr2.pdb
+C:\Users\nikit\source\repos\OOP_hw\HW6\mkr2\mkr2\obj\Debug\net5.0\mkr2.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\OOP_hw\HW6\mkr2\mkr2\obj\Debug\net5.0\mkr2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\repos\OOP_hw\HW6\mkr2\mkr2\obj\Debug\net5.0\mkr2.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\OOP_hw\HW6\mkr2\mkr2\obj\Debug\net5.0\mkr2.AssemblyInfo.cs
+C:\Users\nikit\source\repos\OOP_hw\HW6\mkr2\mkr2\obj\Debug\net5.0\mkr2.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\OOP_hw\HW6\mkr2\mkr2\obj\Debug\net5.0\mkr2.dll
+C:\Users\nikit\source\repos\OOP_hw\HW6\mkr2\mkr2\obj\Debug\net5.0\ref\mkr2.dll
+C:\Users\nikit\source\repos\OOP_hw\HW6\mkr2\mkr2\obj\Debug\net5.0\mkr2.pdb
+C:\Users\nikit\source\repos\OOP_hw\HW6\mkr2\mkr2\obj\Debug\net5.0\mkr2.genruntimeconfig.cache

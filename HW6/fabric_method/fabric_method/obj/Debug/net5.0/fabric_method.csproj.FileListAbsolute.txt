@@ -1,0 +1,16 @@
+C:\Users\nikit\source\repos\OOP_hw\HW6\fabric_method\fabric_method\bin\Debug\net5.0\fabric_method.exe
+C:\Users\nikit\source\repos\OOP_hw\HW6\fabric_method\fabric_method\bin\Debug\net5.0\fabric_method.deps.json
+C:\Users\nikit\source\repos\OOP_hw\HW6\fabric_method\fabric_method\bin\Debug\net5.0\fabric_method.runtimeconfig.json
+C:\Users\nikit\source\repos\OOP_hw\HW6\fabric_method\fabric_method\bin\Debug\net5.0\fabric_method.runtimeconfig.dev.json
+C:\Users\nikit\source\repos\OOP_hw\HW6\fabric_method\fabric_method\bin\Debug\net5.0\fabric_method.dll
+C:\Users\nikit\source\repos\OOP_hw\HW6\fabric_method\fabric_method\bin\Debug\net5.0\ref\fabric_method.dll
+C:\Users\nikit\source\repos\OOP_hw\HW6\fabric_method\fabric_method\bin\Debug\net5.0\fabric_method.pdb
+C:\Users\nikit\source\repos\OOP_hw\HW6\fabric_method\fabric_method\obj\Debug\net5.0\fabric_method.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\OOP_hw\HW6\fabric_method\fabric_method\obj\Debug\net5.0\fabric_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\repos\OOP_hw\HW6\fabric_method\fabric_method\obj\Debug\net5.0\fabric_method.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\OOP_hw\HW6\fabric_method\fabric_method\obj\Debug\net5.0\fabric_method.AssemblyInfo.cs
+C:\Users\nikit\source\repos\OOP_hw\HW6\fabric_method\fabric_method\obj\Debug\net5.0\fabric_method.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\OOP_hw\HW6\fabric_method\fabric_method\obj\Debug\net5.0\fabric_method.dll
+C:\Users\nikit\source\repos\OOP_hw\HW6\fabric_method\fabric_method\obj\Debug\net5.0\ref\fabric_method.dll
+C:\Users\nikit\source\repos\OOP_hw\HW6\fabric_method\fabric_method\obj\Debug\net5.0\fabric_method.pdb
+C:\Users\nikit\source\repos\OOP_hw\HW6\fabric_method\fabric_method\obj\Debug\net5.0\fabric_method.genruntimeconfig.cache
